@@ -1,0 +1,14 @@
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\bin\Debug\net8.0\ProjetoAgenda.exe
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\bin\Debug\net8.0\ProjetoAgenda.deps.json
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\bin\Debug\net8.0\ProjetoAgenda.runtimeconfig.json
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\bin\Debug\net8.0\ProjetoAgenda.dll
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\bin\Debug\net8.0\ProjetoAgenda.pdb
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.AssemblyInfoInputs.cache
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.AssemblyInfo.cs
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.csproj.CoreCompileInputs.cache
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.dll
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\refint\ProjetoAgenda.dll
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.pdb
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ProjetoAgenda.genruntimeconfig.cache
+c:\Users\eduar\OneDrive\Documentos\ProjetoAgenda\ProjetoAgenda\obj\Debug\net8.0\ref\ProjetoAgenda.dll
